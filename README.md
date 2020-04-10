@@ -19,8 +19,7 @@ This option is when the user selects the house list option and can see the list 
 ## House List Details
 This is the details/information of the house upon list item click. The three buttons at the bottoms represents the list so upon clicking,a student can see different list of the members of the house, the colors and the values regarding the house
 
-![details](https://user-images.githubusercontent.com/60643601/79015805-d3020c80-7b6d-11ea-879e-6b40412aa49e.png)
-
+![updated](https://user-images.githubusercontent.com/60643601/79024006-fd5dc500-7b81-11ea-84de-9468e8cc38d5.png)
 ## Student Registry
 This is where the student clicks the student registry to view a list of other students.
 ![StudentRegistry](https://user-images.githubusercontent.com/60643601/79016244-bb775380-7b6e-11ea-8b15-bd7d3b10bc33.png)
