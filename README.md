@@ -1,5 +1,5 @@
 # tri_wizard_tournament
-A Tri Wizard Tournament Android mobile application specifically to assist students with this game, with functions  like tracking spells, houses and other players
+A Tri Wizard Tournament Android mobile application specifically to assist students with this game, with functions  like tracking spells, houses and other players information.
 ## Splash Screen
 The app starts with a splash screen to kickstart the app
 ![SplashScreen](https://user-images.githubusercontent.com/60643601/79012740-47857d00-7b67-11ea-9c0d-dc6f47a2fbdd.png)
@@ -25,5 +25,5 @@ This is where the student clicks the student registry to view a list of other st
 ![StudentRegistry](https://user-images.githubusercontent.com/60643601/79016244-bb775380-7b6e-11ea-8b15-bd7d3b10bc33.png)
 
 ## Spells Registry
-This is where a students clicksthe spells registry button to see the list of spells.
+This is where a students clicks the spells registry button to see the list of spells.
 ![StudentRegistry](https://user-images.githubusercontent.com/60643601/79016244-bb775380-7b6e-11ea-8b15-bd7d3b10bc33.png)
