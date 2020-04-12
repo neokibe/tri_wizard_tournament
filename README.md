@@ -17,7 +17,7 @@ This option is when the user selects the house list button option and can see th
 ![HouseList](https://user-images.githubusercontent.com/60643601/79014504-553d0180-7b6b-11ea-990b-06b2146c0ce3.png)
 
 ## House List Characters
-This is the details or the characters of the house upon list item click. When the student wants to view the members of that house, they can click members button on this page. Also listed is the extra information of the house including the values listed and the various colors of each house. The second image posted here shows the updated page.
+This is the details or the characters of the house upon list item click. When the student wants to view the members of that house, they can click members button on this page. Also listed is the extra information of the house including the values listed and the various colors of each house.
 
 ![houselistDetailsUpdate](https://user-images.githubusercontent.com/60643601/79065353-ee753080-7caf-11ea-891b-0060f4747273.png)
 
@@ -26,7 +26,7 @@ This is where the student clicks the student registry button to view a list of o
 ![StudentRegistry](https://user-images.githubusercontent.com/60643601/79016244-bb775380-7b6e-11ea-8b15-bd7d3b10bc33.png)
 
 ## Student Details
-This is where upon clicking to view other students registry list, you can click on the student name on the list to view the details of that student. This is the screen showing the student details.
+This is where upon clicking to view other students registry list, you can click on the student name on the list to view the details of that student. This is the screen showing the other student details.
 ![studentDetails](https://user-images.githubusercontent.com/60643601/79065465-bde1c680-7cb0-11ea-8a79-8042f5bece9a.png)
 
 ## Spells Registry
